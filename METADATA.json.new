@@ -1,0 +1,33 @@
+{
+  "name": "Pacifico",
+  "designer": "Vernon Adams",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Handwriting",
+  "size": 28515,
+  "fonts": [
+    {
+      "name": "Pacifico",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Pacifico-Regular.ttf",
+      "postScriptName": "Pacifico-Regular",
+      "fullName": "Pacifico Regular",
+      "copyright": "Copyright (c) 2011 by Vernon Adams. All rights reserved."
+    },
+    {
+      "name": "Pacifico",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Pacifico-TTF.ttf",
+      "postScriptName": "Pacifico-Regular",
+      "fullName": "Pacifico Regular",
+      "copyright": "Copyright (c) 2011 by Vernon Adams. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-03-09"
+}
